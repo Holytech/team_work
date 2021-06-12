@@ -1,0 +1,22 @@
+{
+  "name": "team_work",
+  "version": "1.0.0",
+  "description": "A full stack internal social network for employees of an organization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holytech/team_work.git"
+  },
+  "author": "Akeem Qudus (JS_Lover)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Holytech/team_work/issues"
+  },
+  "homepage": "https://github.com/Holytech/team_work#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
